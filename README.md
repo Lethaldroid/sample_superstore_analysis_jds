@@ -12,23 +12,18 @@ Explore our dashboard to visualize the data:
   ![Profitability Sheet](https://github.com/Lethaldroid/sample_superstore_analysis_jds/assets/94099496/80fb5c5d-710e-4d6e-ae19-e4fff4b44a54)
 
 - **Sales**
-  ![Sales Sheet](![2](https://github.com/Lethaldroid/sample_superstore_analysis_jds/assets/94099496/6f3b8a88-97bf-4899-ad7f-89a93084fdd3)
-)
+  ![Sales Sheet](https://github.com/Lethaldroid/sample_superstore_analysis_jds/assets/94099496/6f3b8a88-97bf-4899-ad7f-89a93084fdd3)
 
 - **Customers**
-  ![Customers Sheet](![3](https://github.com/Lethaldroid/sample_superstore_analysis_jds/assets/94099496/b275fedf-7bce-481b-9dca-ff36da7bf506)
-)
+  ![Customers Sheet](https://github.com/Lethaldroid/sample_superstore_analysis_jds/assets/94099496/b275fedf-7bce-481b-9dca-ff36da7bf506)
 
 - **Forecasts**
-  ![Forecasts Sheet](![4](https://github.com/Lethaldroid/sample_superstore_analysis_jds/assets/94099496/d5b56647-d8fa-48c5-8a4a-618cb0566fe2)
-)
+  ![Forecasts Sheet](https://github.com/Lethaldroid/sample_superstore_analysis_jds/assets/94099496/d5b56647-d8fa-48c5-8a4a-618cb0566fe2)
 
 - **Returns**
-  ![Returns Sheet](![5](https://github.com/Lethaldroid/sample_superstore_analysis_jds/assets/94099496/72ab3fbc-cb0e-4b57-b32a-43c6cc026ae0)
-)
+  ![Returns Sheet](https://github.com/Lethaldroid/sample_superstore_analysis_jds/assets/94099496/72ab3fbc-cb0e-4b57-b32a-43c6cc026ae0)
 
 - **Shipping**
-  ![Shipping Sheet](![6](https://github.com/Lethaldroid/sample_superstore_analysis_jds/assets/94099496/047e742f-a84e-42a7-a5eb-d116c7784077)
-)
+  ![Shipping Sheet](https://github.com/Lethaldroid/sample_superstore_analysis_jds/assets/94099496/047e742f-a84e-42a7-a5eb-d116c7784077)
 
 Feel free to navigate through the various sheets to gain deeper insights into the dataset!
