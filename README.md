@@ -9,7 +9,7 @@ This experience was a perfect blend of challenge and creativity, urging us to tr
 Explore our dashboard to visualize the data:
 
 - **Profitability**
-  ![Profitability Sheet](![1](https://github.com/Lethaldroid/sample_superstore_analysis_jds/assets/94099496/80fb5c5d-710e-4d6e-ae19-e4fff4b44a54))
+  ![Profitability Sheet](https://github.com/Lethaldroid/sample_superstore_analysis_jds/assets/94099496/80fb5c5d-710e-4d6e-ae19-e4fff4b44a54)
 
 - **Sales**
   ![Sales Sheet](![2](https://github.com/Lethaldroid/sample_superstore_analysis_jds/assets/94099496/6f3b8a88-97bf-4899-ad7f-89a93084fdd3)
